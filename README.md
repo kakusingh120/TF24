@@ -1,8 +1,23 @@
-# React + Vite
+## TF24 Web
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Steps to run on local :
 
-Currently, two official plugins are available:
+Clone to local :
+```bash
+git clone git@github.com:kakusingh120/TF24.git
+```
+open folder
+```bash
+cd TF24
+```
+To install dependencies:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+npm install
+```
+
+To run:
+
+```bash
+npm run dev
+```
